@@ -1,0 +1,108 @@
+m255
+K4
+z2
+Z0 !s12c _opt
+Z1 !s99 nomlopt
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+!s11f vlog 2023.3 2023.07, Jul 17 2023
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z2 d/home/reza/University/CAD/CA2/trunk/sim
+T_opt
+!s110 1733213243
+V]BbM?=2bY_`Y0cmc6^j592
+04 2 4 work TB fast 0
+=1-000ae431a4f1-674ebc3a-e2f4a-18d9
+R1
+!s12b OEM100
+!s124 OEM10U3 
+o-quiet -auto_acc_if_foreign -work work -debugdb +acc
+Z3 tCvgOpt 0
+n@_opt
+OL;O;2023.3;77
+vBuffer
+2../src/hdl/Buffer.v
+!s10a 1730736671
+Z4 !s110 1730828333
+!i10b 1
+!s100 e@hHh`N9_lQJ:`nNR;]3N3
+Ioz[8`UcUKFT73Y99P8]8c2
+R2
+w1730736671
+8../src/hdl/Buffer.v
+F../src/hdl/Buffer.v
+!i122 0
+L0 1 37
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2023.3;77
+r1
+!s85 0
+31
+!i113 0
+Z7 o+acc -source -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+n@buffer
+vFIFO
+2../src/hdl/FIFO.v
+!s10a 1730737296
+R4
+!i10b 1
+!s100 eVCGQ8a2YK`9`LiKRRQ]11
+Io2iX2o]2UFn3iECZGDN^22
+R2
+w1730737296
+8../src/hdl/FIFO.v
+F../src/hdl/FIFO.v
+!i122 1
+L0 4 73
+R5
+R6
+r1
+!s85 0
+31
+!i113 0
+R7
+R3
+n@f@i@f@o
+vTB
+2./tb/TB.v
+!s110 1733213241
+!i10b 1
+!s100 ?8A5@7FAEQTi7jaE>DS>g3
+IB0IIeRlFFB3BP^]IR_h:H3
+R2
+w1733213235
+8./tb/TB.v
+F./tb/TB.v
+!i122 11
+L0 1 102
+R5
+R6
+r1
+!s85 0
+31
+!i113 0
+R7
+R3
+n@t@b

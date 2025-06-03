@@ -1,0 +1,143 @@
+{C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/cotrol block.v} {1 {vlog -work work -stats=none {C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/cotrol block.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module control_block_2to2
+-- Compiling module control_block_1to3
+-- Compiling module control_block_2to3
+-- Compiling module control_block_3to2
+-- Compiling module control_block_3to1
+
+Top level modules:
+	control_block_2to2
+	control_block_1to3
+	control_block_2to3
+	control_block_3to2
+	control_block_3to1
+
+} {} {}} C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/datapath.v {1 {vlog -work work -stats=none C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/datapath.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DataPath
+
+Top level modules:
+	DataPath
+
+} {} {}} {C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/Test Bench.v} {1 {vlog -work work -stats=none {C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/Test Bench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_TopModule
+
+Top level modules:
+	tb_TopModule
+
+} {} {}} C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/counter.v {1 {vlog -work work -stats=none C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/counter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module counter_3bit
+
+Top level modules:
+	counter_3bit
+
+} {} {}} C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/modules.v {1 {vlog -work work -stats=none C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/modules.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module c1
+-- Compiling module c2
+-- Compiling module FDCP
+-- Compiling module s1
+-- Compiling module s2
+
+Top level modules:
+	c1
+	c2
+	s1
+	s2
+
+} {} {}} C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/xor.v {1 {vlog -work work -stats=none C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/xor.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module my_xor
+
+Top level modules:
+	my_xor
+
+} {} {}} C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/shift_ff.v {1 {vlog -work work -stats=none C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/shift_ff.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shift_ff
+
+Top level modules:
+	shift_ff
+
+} {} {}} C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/or.v {1 {vlog -work work -stats=none C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/or.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module my_or
+
+Top level modules:
+	my_or
+
+} {} {}} C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/first_not_and.v {1 {vlog -work work -stats=none C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/first_not_and.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module first_not_and_2bit
+-- Compiling module first_not_and_3bit
+-- Compiling module first_two_not_and_3bit
+
+Top level modules:
+	first_not_and_2bit
+	first_not_and_3bit
+	first_two_not_and_3bit
+
+} {} {}} C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/mult.v {1 {vlog -work work -stats=none C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/mult.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mult8
+
+Top level modules:
+	mult8
+
+} {} {}} C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/and.v {1 {vlog -work work -stats=none C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/and.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module my_and
+-- Compiling module my_and_3bit
+
+Top level modules:
+	my_and
+	my_and_3bit
+
+} {} {}} C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/d_ff.v {1 {vlog -work work -stats=none C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/d_ff.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module d_ff
+
+Top level modules:
+	d_ff
+
+} {} {}} C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/t_ff.v {1 {vlog -work work -stats=none C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/t_ff.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module t_ff
+
+Top level modules:
+	t_ff
+
+} {} {}} C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/top_module.v {1 {vlog -work work -stats=none C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/top_module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TopModule
+
+Top level modules:
+	TopModule
+
+} {} {}} C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/full_adder.v {1 {vlog -work work -stats=none C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/full_adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module full_adder
+
+Top level modules:
+	full_adder
+
+} {} {}} C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/shiftreg.v {1 {vlog -work work -stats=none C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/shiftreg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shiftreg_16bit
+-- Compiling module shiftreg_32bit
+
+Top level modules:
+	shiftreg_16bit
+	shiftreg_32bit
+
+} {} {}} C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/controller.v {1 {vlog -work work -stats=none C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}}

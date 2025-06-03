@@ -1,0 +1,122 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+Z0 !s12c _opt
+Z1 !s99 nomlopt
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z2 d/home/reza/University/CAD/CA2/trunk/sim
+T_opt
+!s110 1733213243
+V]BbM?=2bY_`Y0cmc6^j592
+04 2 4 work TB fast 0
+=1-000ae431a4f1-674ebc3a-e2f4a-18d9
+R1
+!s12b OEM100
+!s124 OEM10U3 
+o-quiet -auto_acc_if_foreign -work work -debugdb +acc
+Z3 tCvgOpt 0
+n@_opt
+OL;O;2023.3;77
+R2
+vBuffer
+Z4 !s10a 1733308309
+!s110 1733308382
+!i10b 1
+!s100 e@hHh`N9_lQJ:`nNR;]3N3
+Z5 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I@JgbR7CB:RUoLU^?]@H9Q3
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 dC:/Users/NoteBook/Desktop/programing/CAD/CAD_CA2/trunk/sim
+Z8 w1733308309
+8../src/hdl/Buffer.v
+F../src/hdl/Buffer.v
+!i122 12
+L0 1 37
+Z9 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z10 !s108 1733308382.000000
+!s107 ../src/hdl/Buffer.v|
+!s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/Buffer.v|
+!i113 1
+Z11 o+acc -source -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z12 !s92 +acc -source +define+SIM -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+n@buffer
+vFIFO
+R4
+!s110 1733308383
+!i10b 1
+!s100 eVCGQ8a2YK`9`LiKRRQ]11
+R5
+I=1>3WGbnbog;I6VG>mLc32
+R6
+R7
+R8
+8../src/hdl/FIFO.v
+F../src/hdl/FIFO.v
+!i122 13
+L0 4 73
+R9
+r1
+!s85 0
+31
+R10
+!s107 ../src/hdl/FIFO.v|
+!s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/FIFO.v|
+!i113 1
+R11
+R12
+R3
+n@f@i@f@o
+vTB
+!s10a 1733309112
+!s110 1733309119
+!i10b 1
+!s100 64>mUG[Eb?RajMMX33TPB2
+R5
+I>2S;Q11TO6QJB``D0bFWn1
+R6
+R7
+w1733309112
+8./tb/TB.v
+F./tb/TB.v
+!i122 15
+L0 1 128
+R9
+r1
+!s85 0
+31
+!s108 1733309119.000000
+!s107 ./tb/TB.v|
+!s90 -reportprogress|300|+acc|-incr|-source|+incdir+../src/inc|+define+SIM|./tb/TB.v|
+!i113 1
+R11
+!s92 +acc -source +incdir+../src/inc +define+SIM -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+n@t@b

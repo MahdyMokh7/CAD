@@ -1,0 +1,958 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/
+vc1
+Z0 !s110 1732809313
+!i10b 1
+!s100 eA@gHTW;hcSCR[BfhfS2g3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ib@CTiL`j;YSF]nDSNS09W3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3
+Z4 w1732809256
+Z5 8C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/modules.v
+Z6 FC:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/modules.v
+!i122 637
+L0 1 10
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1732809313.000000
+!s107 C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/modules.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/modules.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vc2
+R0
+!i10b 1
+!s100 bFHgzm]Q`l1<2^F>lFbXl0
+R1
+ICiI72i=8HMnkRBMl4lS6C0
+R2
+R3
+R4
+R5
+R6
+!i122 637
+L0 11 28
+R7
+r1
+!s85 0
+31
+R8
+Z12 !s107 C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/modules.v|
+R9
+!i113 1
+R10
+R11
+vcontrol_block_1to3
+Z13 !s110 1732809311
+!i10b 1
+!s100 g@A04YMkaBUzl3M3fWiZ<3
+R1
+ImH;Y>^@H[S<BE:ASXC>^P3
+R2
+R3
+Z14 w1732805571
+Z15 8C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/cotrol block.v
+Z16 FC:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/cotrol block.v
+!i122 623
+L0 35 16
+R7
+r1
+!s85 0
+31
+Z17 !s108 1732809311.000000
+Z18 !s107 C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/cotrol block.v|
+Z19 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/cotrol block.v|
+!i113 1
+R10
+R11
+vcontrol_block_2to2
+R13
+!i10b 1
+!s100 Vcj1GjcEgX?c;FMg<Tcl00
+R1
+I:WQ=d9[`YjjBhLL5?<Q8G2
+R2
+R3
+R14
+R15
+R16
+!i122 623
+L0 1 15
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!i113 1
+R10
+R11
+vcontrol_block_2to2_idle
+!s110 1732803391
+!i10b 1
+!s100 PBBEQB=b<_^8CPS_;nQAg0
+R1
+I_K5@9hb^IAiCdh1]<_kYJ1
+R2
+R3
+w1732803195
+R15
+R16
+!i122 353
+L0 1 14
+R7
+r1
+!s85 0
+31
+!s108 1732803391.000000
+R18
+R19
+!i113 1
+R10
+R11
+vcontrol_block_2to3
+R13
+!i10b 1
+!s100 ?Of3fd:f9_mijl_:LfPR>0
+R1
+IDW?;BQLUccWEoYc9Z:EGY1
+R2
+R3
+R14
+R15
+R16
+!i122 623
+L0 53 16
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!i113 1
+R10
+R11
+vcontrol_block_3to1
+R13
+!i10b 1
+!s100 9VTzO4om?dVN>CVmXEdnT1
+R1
+I`eo?b5A<8_KB2<S0Xzg8i0
+R2
+R3
+R14
+R15
+R16
+!i122 623
+L0 87 12
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!i113 1
+R10
+R11
+vcontrol_block_3to2
+R13
+!i10b 1
+!s100 [BVZa=BCXWJPU1FLD[RVD2
+R1
+IBnnmlE?LlV?TR=o;4GbAU1
+R2
+R3
+R14
+R15
+R16
+!i122 623
+L0 70 15
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!i113 1
+R10
+R11
+vcontroller
+R13
+!i10b 1
+!s100 _dCD9e=PIV^^H`Vbh12N12
+R1
+IZ@5_2EPOhbiX;39[3=L^S1
+R2
+R3
+w1732807378
+8C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/controller.v
+FC:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/controller.v
+!i122 622
+L0 1 73
+R7
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/controller.v|
+!i113 1
+R10
+R11
+vcounter_3bit
+Z20 !s110 1732809312
+!i10b 1
+!s100 BB?eO:fM0WoP8V8XKgZCb0
+R1
+IHhDDcaSX<`aI8OedSFhOX3
+R2
+R3
+w1732798518
+8C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/counter.v
+FC:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/counter.v
+!i122 624
+L0 1 52
+R7
+r1
+!s85 0
+31
+Z21 !s108 1732809312.000000
+!s107 C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/counter.v|
+!i113 1
+R10
+R11
+vd_ff
+R0
+!i10b 1
+!s100 @4WRRgVa^EVi9<RlDzCMR1
+R1
+I><Go8TIiGV>E9TQ2oiXMP3
+R2
+R3
+w1732805780
+8C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/d_ff.v
+FC:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/d_ff.v
+!i122 636
+Z22 L0 1 9
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/d_ff.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/d_ff.v|
+!i113 1
+R10
+R11
+vd_ff_init_one
+!s110 1732804865
+!i10b 1
+!s100 94][:M?TgeQ;RX?lD6Wl83
+R1
+I6EoIAzZm6m>o9gBBAWBMc3
+R2
+R3
+w1732804731
+8C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/d_ff_init_one.v
+FC:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/d_ff_init_one.v
+!i122 411
+R22
+R7
+r1
+!s85 0
+31
+!s108 1732804865.000000
+!s107 C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/d_ff_init_one.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/d_ff_init_one.v|
+!i113 1
+R10
+R11
+vd_ff_not
+!s110 1732804864
+!i10b 1
+!s100 E?`A;E4AhL>]E9?_C;IJN1
+R1
+I_g21ZKUn6KH:HzI;?8e?Z3
+R2
+R3
+w1732795060
+8C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/d_ff_not.v
+FC:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/d_ff_not.v
+!i122 397
+R22
+R7
+r1
+!s85 0
+31
+!s108 1732804864.000000
+!s107 C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/d_ff_not.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/d_ff_not.v|
+!i113 1
+R10
+R11
+vDataPath
+R20
+!i10b 1
+!s100 hMW4EozkQ`E97nR[_[0Hf0
+R1
+IEV=6S7[@9M::?b9gg<:C?3
+R2
+R3
+w1732798470
+8C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/datapath.v
+FC:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/datapath.v
+!i122 625
+L0 1 27
+R7
+r1
+!s85 0
+31
+R21
+!s107 C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/datapath.v|
+!i113 1
+R10
+R11
+n@data@path
+vFDCP
+R0
+!i10b 1
+!s100 W7:IP4a8CZ>D>95]^NLBQ3
+R1
+I>=2R3=hl2F[CT>VbRJfg]3
+R2
+R3
+R4
+R5
+R6
+!i122 637
+L0 39 10
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 1
+R10
+R11
+n@f@d@c@p
+vfirst_not_and_2bit
+R20
+!i10b 1
+!s100 Vce1MJD@cD8CkfQb9o_7O0
+R1
+Ii`XM:kDk4CA=G0Whc5;`B0
+R2
+R3
+Z23 w1732787471
+Z24 8C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/first_not_and.v
+Z25 FC:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/first_not_and.v
+!i122 626
+L0 1 8
+R7
+r1
+!s85 0
+31
+R21
+Z26 !s107 C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/first_not_and.v|
+Z27 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/first_not_and.v|
+!i113 1
+R10
+R11
+vfirst_not_and_3bit
+R20
+!i10b 1
+!s100 >Bo5_@3UUdhRlNUQ[8`o51
+R1
+I4h7im1BYfUiZJ;Q=?z;h@1
+R2
+R3
+R23
+R24
+R25
+!i122 626
+L0 11 7
+R7
+r1
+!s85 0
+31
+R21
+R26
+R27
+!i113 1
+R10
+R11
+vfirst_two_not_and_3bit
+R20
+!i10b 1
+!s100 4kK1zFi7Tb<fCbaGX`AMC2
+R1
+IFW>oMLm39zZIGo:3m>DYo0
+R2
+R3
+R23
+R24
+R25
+!i122 626
+L0 20 8
+R7
+r1
+!s85 0
+31
+R21
+R26
+R27
+!i113 1
+R10
+R11
+vfull_adder
+R20
+!i10b 1
+!s100 4a0Ad:ofzJ;@i]SHz]ZC`3
+R1
+IKR=EhO0@a5cJ]D:1zH=em1
+R2
+R3
+w1732777216
+8C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/full_adder.v
+FC:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/full_adder.v
+!i122 627
+L0 1 12
+R7
+r1
+!s85 0
+31
+R21
+!s107 C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/full_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/full_adder.v|
+!i113 1
+R10
+R11
+vmult8
+R20
+!i10b 1
+!s100 >gERT?[6UQ7X`Ln5HczPZ1
+R1
+IJGN_OV>1fX4_Q:9Q:2`FE1
+R2
+R3
+w1732798276
+8C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/mult.v
+FC:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/mult.v
+!i122 628
+L0 1 84
+R7
+r1
+!s85 0
+31
+R21
+!s107 C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/mult.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/mult.v|
+!i113 1
+R10
+R11
+vmy_and
+R13
+!i10b 1
+!s100 a@30YnNKVkkbYKca;OB]22
+R1
+IM[cFkI_c4;SBfd4>0iBi72
+R2
+R3
+Z28 w1732799338
+Z29 8C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/and.v
+Z30 FC:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/and.v
+!i122 621
+Z31 L0 1 7
+R7
+r1
+!s85 0
+31
+R17
+Z32 !s107 C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/and.v|
+Z33 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/and.v|
+!i113 1
+R10
+R11
+vmy_and_3bit
+R13
+!i10b 1
+!s100 fT_?[kl?NGdDg?D:H2SS;0
+R1
+Iiz>kUY0?faLYe^4ZAE>100
+R2
+R3
+R28
+R29
+R30
+!i122 621
+L0 10 8
+R7
+r1
+!s85 0
+31
+R17
+R32
+R33
+!i113 1
+R10
+R11
+vmy_or
+R20
+!i10b 1
+!s100 jC]5Tie0_b_;2mMgIM3g52
+R1
+IcT=K<bXdAoMF[VWCCh=[72
+R2
+R3
+w1732786062
+8C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/or.v
+FC:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/or.v
+!i122 629
+R31
+R7
+r1
+!s85 0
+31
+R21
+!s107 C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/or.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/or.v|
+!i113 1
+R10
+R11
+vmy_xor
+R0
+!i10b 1
+!s100 d9XDn]_2hgLgGYP1S:WBC0
+R1
+I9OeD_dEc8Ro3gAb?TRG?z3
+R2
+R3
+w1732700815
+8C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/xor.v
+FC:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/xor.v
+!i122 634
+R31
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/xor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/xor.v|
+!i113 1
+R10
+R11
+vs1
+R0
+!i10b 1
+!s100 L9l=]b4n`D5R6J^FjM]m<3
+R1
+Imd3QDSdT5:in4zf0USP_D3
+R2
+R3
+R4
+R5
+R6
+!i122 637
+L0 49 15
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 1
+R10
+R11
+vs2
+R0
+!i10b 1
+!s100 03I:M3g7M]hb;;OoZS1K21
+R1
+I2Ff:SAi;7Eb=XoP?24YGT2
+R2
+R3
+R4
+R5
+R6
+!i122 637
+L0 64 14
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 1
+R10
+R11
+vshift_ff
+R20
+!i10b 1
+!s100 >dJW5<N6kFa`P>YZ^dgIN1
+R1
+I6f@K4;9gk_Ij4lZLYalS_1
+R2
+R3
+w1732676157
+8C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/shift_ff.v
+FC:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/shift_ff.v
+!i122 630
+L0 1 16
+R7
+r1
+!s85 0
+31
+R21
+!s107 C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/shift_ff.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/shift_ff.v|
+!i113 1
+R10
+R11
+vshiftreg_16bit
+R20
+!i10b 1
+!s100 W>hhZfO?OzW7?BoD1S@GD2
+R1
+Il5]Y2SRHi0KLbQH^@QeLJ1
+R2
+R3
+Z34 w1732801251
+Z35 8C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/shiftreg.v
+Z36 FC:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/shiftreg.v
+!i122 631
+L0 1 19
+R7
+r1
+!s85 0
+31
+R21
+Z37 !s107 C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/shiftreg.v|
+Z38 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/shiftreg.v|
+!i113 1
+R10
+R11
+vshiftreg_32bit
+R20
+!i10b 1
+!s100 0O`GaTG=bIZDk@9IgW:gl0
+R1
+IBg9M=@R@;:hF4@MMS1gZ:3
+R2
+R3
+R34
+R35
+R36
+!i122 631
+L0 21 20
+R7
+r1
+!s85 0
+31
+R21
+R37
+R38
+!i113 1
+R10
+R11
+vt_ff
+R20
+!i10b 1
+!s100 4Oe;_YhM<[H@L24RN@1TL3
+R1
+I`gYMDRARO1bVGi==9aIE01
+R2
+R3
+w1732780654
+8C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/t_ff.v
+FC:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/t_ff.v
+!i122 632
+R22
+R7
+r1
+!s85 0
+31
+R21
+!s107 C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/t_ff.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/t_ff.v|
+!i113 1
+R10
+R11
+vtb_d_ff_not
+Z39 !s110 1732800218
+!i10b 1
+!s100 aUAif=XHjeHnRCZ8SRAcJ2
+R1
+IdlRa3>2@XLH@93?A2@P8:2
+R2
+R3
+Z40 w1732800142
+Z41 8C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/all_tb.v
+Z42 FC:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/all_tb.v
+!i122 100
+L0 4 56
+R7
+r1
+!s85 0
+31
+Z43 !s108 1732800218.000000
+Z44 !s107 C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/all_tb.v|
+Z45 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/all_tb.v|
+!i113 1
+R10
+R11
+vtb_first_not_and_2bit
+R39
+!i10b 1
+!s100 9PzT23D3I^_>afjPNClaK3
+R1
+IS<B;kFLCY5R5S`dGhD2M=0
+R2
+R3
+R40
+R41
+R42
+!i122 100
+L0 156 36
+R7
+r1
+!s85 0
+31
+R43
+R44
+R45
+!i113 1
+R10
+R11
+vtb_first_not_and_3bit
+R39
+!i10b 1
+!s100 Jc2o?792z7:K:GEC4GRmX1
+R1
+I4f=oQW<fL:m0zP34Bh0_m0
+R2
+R3
+R40
+R41
+R42
+!i122 100
+L0 110 42
+R7
+r1
+!s85 0
+31
+R43
+R44
+R45
+!i113 1
+R10
+R11
+vtb_first_two_not_and_3bit
+R39
+!i10b 1
+!s100 :_BV8fhG9XkALo:2d3inZ2
+R1
+IF=LzklFHKQ]UDT]bTV1TB1
+R2
+R3
+R40
+R41
+R42
+!i122 100
+L0 64 42
+R7
+r1
+!s85 0
+31
+R43
+R44
+R45
+!i113 1
+R10
+R11
+vtb_my_and
+Z46 !s110 1732799703
+!i10b 1
+!s100 V[mS[UZ1C?YFF9Fgg^_U[2
+R1
+IAkK`Z6C`T=;cbM=K8hZja1
+R2
+R3
+Z47 w1732799591
+R41
+R42
+!i122 79
+Z48 L0 3 36
+R7
+r1
+!s85 0
+31
+Z49 !s108 1732799703.000000
+R44
+R45
+!i113 1
+R10
+R11
+vtb_my_and_3bit
+R46
+!i10b 1
+!s100 6PQS?BR0E]TiQTG0L[`653
+R1
+IUA8K4c6hoJDV8h6[M_NUM3
+R2
+R3
+R47
+R41
+R42
+!i122 79
+L0 43 42
+R7
+r1
+!s85 0
+31
+R49
+R44
+R45
+!i113 1
+R10
+R11
+vtb_my_or
+!s110 1732800531
+!i10b 1
+!s100 6[T_9h]Eg@6V<okUBkaS<3
+R1
+Ii^6G:8C1m7MZJ4fPUU<I43
+R2
+R3
+w1732800523
+R41
+R42
+!i122 101
+R48
+R7
+r1
+!s85 0
+31
+!s108 1732800531.000000
+R44
+R45
+!i113 1
+R10
+R11
+vtb_shiftreg_16bit
+!s110 1732801282
+!i10b 1
+!s100 Xi_5DU8kN@X18IcgE8Uzk2
+R1
+Igi^V<BCNZ[@Scf<BXig>;0
+R2
+R3
+w1732801038
+R41
+R42
+!i122 182
+L0 3 65
+R7
+r1
+!s85 0
+31
+!s108 1732801282.000000
+R44
+R45
+!i113 1
+R10
+R11
+vtb_shiftreg_32bit
+!s110 1732807978
+!i10b 1
+!s100 d<LVEeZ70WC3DioELM[2[1
+R1
+I388:h]8W3Q:jJZ5WQ:mP`1
+R2
+R3
+w1732801473
+R41
+R42
+!i122 580
+L0 3 64
+R7
+r1
+!s85 0
+31
+!s108 1732807977.000000
+R44
+R45
+!i113 1
+R10
+R11
+vtb_TopModule
+R0
+!i10b 1
+!s100 Q3bWW@[`>BXLI6WDXGfN@0
+R1
+IzX]gc6AQ5l<bZ9eP1lzCK3
+R2
+R3
+w1732807960
+8C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/Test Bench.v
+FC:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/Test Bench.v
+!i122 635
+L0 3 143
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/Test Bench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/Test Bench.v|
+!i113 1
+R10
+R11
+ntb_@top@module
+vTopModule
+R0
+!i10b 1
+!s100 _:^l29z1RTJJ9U?UDZMiz2
+R1
+Ih98AJ;I@]YNkN=5<HS`4W3
+R2
+R3
+w1732801642
+8C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/top_module.v
+FC:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/top_module.v
+!i122 633
+L0 1 25
+R7
+r1
+!s85 0
+31
+R21
+!s107 C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/top_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/NoteBook/Desktop/programing/CAD/CAD_CA3/top_module.v|
+!i113 1
+R10
+R11
+n@top@module
